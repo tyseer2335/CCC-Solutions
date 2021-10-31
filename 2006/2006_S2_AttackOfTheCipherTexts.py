@@ -43,4 +43,7 @@ for i in cipher2:
     try:
         print(text[i], end="") 
     except KeyError: 
-        print(".", end="")
+        print(".", end="") 
+
+
+# 15/15 CCC
