@@ -37,4 +37,6 @@ area = 0
 for i in range(numFence): 
     area += (int(width[i])) * ((int(height[i]) + int(height[i+1])))/2 
 
-print(area)
+print(area) 
+
+# CCC 15/15
