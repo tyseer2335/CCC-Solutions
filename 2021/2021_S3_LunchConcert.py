@@ -24,11 +24,6 @@ def SumFinder(Guess): # Function finds the Sum of the walking times
     
 Low = 0
 High = 1000000000 
-Choice = 0 
-Mid = 0
-MinSum = 0 
-Left = 0 
-Right = 0
 
 while (Low<=High): 
     Mid = (Low+High)//2 
@@ -45,7 +40,7 @@ while (Low<=High):
 print(MinSum)
 
 # CCC 15/15  
-# DMOJ 4/15 ??
+
 
 
     
