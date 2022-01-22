@@ -17,4 +17,6 @@ def SpeedCalc(Data):
     return Speeds
         
 Observations.sort() 
-print(max(SpeedCalc(Observations)))
+print(max(SpeedCalc(Observations))) 
+
+# 15/15 CCC
